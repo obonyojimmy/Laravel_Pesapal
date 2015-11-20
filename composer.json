@@ -1,7 +1,7 @@
 {
   "name": "obonyojimmy/pesapal",
   "description": " laravel 5.1 pesapal package",
-  "keywords": ["laravel", "pesapal", ],
+  "keywords": ["laravel", "pesapal" ,"stable"],
   "homepage": "",
   "license": "MIT",
   "authors": [
