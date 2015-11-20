@@ -23,6 +23,7 @@
       "Obonyojimmy\\Pesapal\\": "src/"
     }
   },
-  "minimum-stability": "dev" ,
-  "version" : "1.0.0"
+  "minimum-stability": "stable" ,
+  "version" : "1.0.0" ,
+  "prefer-stable": true
 }
